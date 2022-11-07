@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/angeo66/CV-Ange/static/css/main.35d6c202.css",
+    "main.js": "/angeo66/CV-Ange/static/js/main.4d1113c3.js",
+    "static/js/787.a9f81cfa.chunk.js": "/angeo66/CV-Ange/static/js/787.a9f81cfa.chunk.js",
+    "static/media/ben-kolde-FaPxZ88yZrw-unsplash.jpg": "/angeo66/CV-Ange/static/media/ben-kolde-FaPxZ88yZrw-unsplash.1964d3e0d699ed90c5b8.jpg",
+    "static/media/map.jpg": "/angeo66/CV-Ange/static/media/map.3e5949c9b6f7cd03bd31.jpg",
+    "index.html": "/angeo66/CV-Ange/index.html",
+    "static/media/shape.svg": "/angeo66/CV-Ange/static/media/shape.1d026b20b3a18a74a971.svg",
+    "main.35d6c202.css.map": "/angeo66/CV-Ange/static/css/main.35d6c202.css.map",
+    "main.4d1113c3.js.map": "/angeo66/CV-Ange/static/js/main.4d1113c3.js.map",
+    "787.a9f81cfa.chunk.js.map": "/angeo66/CV-Ange/static/js/787.a9f81cfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d6c202.css",
+    "static/js/main.4d1113c3.js"
+  ]
+}
