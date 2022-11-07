@@ -1,8 +1,7 @@
-# CV-Ange
+# Portfolio-Ange
 
-## Mon CV
+## Mon Portfolio
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Découvrez mon portfolio en live [mon-portfolio](https://angeo66.github.io/CV-Ange)
 
